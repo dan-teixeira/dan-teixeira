@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Teixeira</h1>
 <h3 align="center">A passionate about Analytics, Data Science and Data Engineering</h3>
 
-- 🌱 I’m currently learning **Spark, Python and Machine Learning**
+- 🌱 I’m currently learning **Python, Machine Learning and Spark**
 
 - 💬 Ask me about **SQL, Python, PySpark, Metabase, Looker Studio and Excel**
 
