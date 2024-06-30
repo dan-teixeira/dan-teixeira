@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spark, Python and Machine Learning**
 
-- 💬 Ask me about **SQL, Python, Metabase, Looker Studio and Excel**
+- 💬 Ask me about **SQL, Python, PySpark, Metabase, Looker Studio and Excel**
 
 - 📫 How to reach me **dan.teixeira00@gmail.com**
 
